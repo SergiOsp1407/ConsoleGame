@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1600202098 source:c:\users\lenovo\desktop\platzi\c++\game\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1600198394 c:\users\lenovo\desktop\platzi\c++\game\include\player.h
+
+1600198343 source:c:\users\lenovo\desktop\platzi\c++\game\main.cpp
+	<iostream>
+	"Player.h"
+	"MapSet.h"
+	"GameMap.h"
+
+1599597295 c:\users\lenovo\desktop\platzi\c++\game\include\mapset.h
+
+1599597173 source:c:\users\lenovo\desktop\platzi\c++\game\src\mapset.cpp
+	"MapSet.h"
+
+1600202274 c:\users\lenovo\desktop\platzi\c++\game\include\gamemap.h
+	"MapSet.h"
+
+1600201685 source:c:\users\lenovo\desktop\platzi\c++\game\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+
+1600808990 source:c:\users\lenovo\desktop\learning paths\platzi\c++\game\main.cpp
+	<iostream>
+	"Player.h"
+	"MapSet.h"
+	"GameMap.h"
+
+1600797279 c:\users\lenovo\desktop\learning paths\platzi\c++\game\include\player.h
+
+1600796957 c:\users\lenovo\desktop\learning paths\platzi\c++\game\include\mapset.h
+
+1600809088 c:\users\lenovo\desktop\learning paths\platzi\c++\game\include\gamemap.h
+	"MapSet.h"
+
+1600797029 source:c:\users\lenovo\desktop\learning paths\platzi\c++\game\src\mapset.cpp
+	"MapSet.h"
+
+1600797353 source:c:\users\lenovo\desktop\learning paths\platzi\c++\game\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1600809038 source:c:\users\lenovo\desktop\learning paths\platzi\c++\game\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
